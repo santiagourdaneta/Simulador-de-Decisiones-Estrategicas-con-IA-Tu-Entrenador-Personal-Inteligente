@@ -1,6 +1,8 @@
 
 Un innovador simulador de toma de decisiones estratégicas que utiliza Inteligencia Artificial (IA) para ayudarte a mejorar tu lógica de negocio y resolución de problemas. Enfréntate a escenarios complejos, toma decisiones críticas y recibe retroalimentación instantánea y diagnósticos basados en modelos predictivos.
 
+Demo: https://simulador-decisiones-ia.streamlit.app/
+
 # 🚀 Simulador de Decisiones Estratégicas con IA: Tu Entrenador Personal Inteligente
 
 ## 🤔 ¿Qué es este proyecto?
